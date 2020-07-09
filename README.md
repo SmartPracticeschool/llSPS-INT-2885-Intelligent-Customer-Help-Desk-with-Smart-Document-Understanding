@@ -23,3 +23,7 @@ The same has been included with this repo.
 
 After Deployment : NodeRed Dashboard Link: https://node-red-lhjca.eu-gb.mybluemix.net/ui/#!/0?socketid=Oo_9kRzoCo1dVSDgAAAA
 
+Youtube Demo Link : https://youtu.be/gthq4JJ7DnI
+
+Youtube Feedback Link : https://youtu.be/ZXdW7XYmtdM
+
